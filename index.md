@@ -1,165 +1,32 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
+## What Is Blue's Hub?
 
-		<meta charset = "utf-8">
-		<link rel = "shortcut icon" type = "image/x-icon" href="Logo.ico" />
+Blue's hub is a powerful roblox script hub that is kept at a low price for high tier scripts, detections are always on 0 to ensure your safety when cheating.
 
-		<meta name = "author" content = "CriShoux" />
-		<meta name = "description" content = "CriShoux's favorite scripts." />
-		<meta name = "keywords" content = "Scripts, Roblox" />
+We support many games, join the discord to see supported / update logs and more. Blue hub stands out with its amazing esp for all games and universal script but its beauty is in its fps scripts. Blue loves playing fps games in his free time but the game had no scripts so sat there and made one and it was great! I really hope you buy the script and enjoy it as much as i did making it love you all!
 
-		<meta property = "og:title" content = "CriShoux Scripts" />
-		<meta property = "og:description" content = "CriShoux's favorite scripts." />
-		<meta property = "og:type" content = "website" />
-		<meta property = "og:url" content = "https://crishoux.github.io" />
-		<meta property = "og:secure_url" content = "https://crishoux.github.io">
-		<meta property = "og:image" content = "https://crishoux.github.io/Logo.ico" />
+### Markdown
 
-		<title>CriShoux Scripts</title>
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-	 <style>
+```markdown
+Syntax highlighted code block
 
-	 		body
-			{
-				background-color: #232323;
-				background-image: url(Landscape.jpg);
-				background-attachment: fixed;
-				background-size: cover;
-				background-repeat:
-				no-repeat;"
-				TEXT = "#ffffff"
-			}
+# Header 1
+## Header 2
+### Header 3
 
-			#Header, #Scripts
-			{
-				text-align: center;
-				animation: fadeIn 2s
-			}
+# Purchase
+https://bluescripts.sellix.io/product/62a5eee5e946f
+Purchase the script and then join the discord for further help.
 
-			#Header h1
-			{
-				margin: 18px;
-				color: #ffffff;
-				font-family: "Trebuchet MS";
-			}
+**Bold** and _Italic_ and `Code` text
 
-			#Scripts a:hover
-			{
-				color: #bcbcbc;
-				text-decoration: none;
-				font-size: 30px;
-			}
+[Link](url) and ![Image](src)
+```
 
-			#Scripts
-			{
-				margin: 35px;
-			}
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-			#Scripts a
-			{
-				line-height: 60px;
-				color: #e8e8e8;
-				font-family: Monospace;
-				font-size: 25px;
-			}
 
-			#Message
-			{
-				margin-top: 140px;
-				text-align: center;
-				color: #a8a8a8;
-				font-family: Helvetica;
-				font-size: 45px;
-			}
+### Support Or Contact Blue
 
-			@keyframes fadeIn
-			{
-				from {
-					opacity: 0;
-				}
-
-				to {
-					opacity: 1;
-				}
-			}
-
-	 </style>
-
-	</head>
-	<body>
-		<div id = "Header">
-			<h1><font size = "25">CriShoux's Favorite Scripts</font></h1>
-		</div>
-		<div id = "Scripts">
-			<a href="https://crishoux.github.io/Aimbot.txt" target = "_blank">Aimbot</a>
-			<br>
-			<a href="https://crishoux.github.io/ESP.txt" target = "_blank">ESP</a>
-			<br>
-			<a href="https://crishoux.github.io/Shattervast.txt" target = "_blank">Shattervast Admin</a>
-			<br>
-			<a href="https://crishoux.github.io/DestroyTool.txt" target = "_blank">Destroy Tool</a>
-			<br>
-			<a href="https://crishoux.github.io/DestroyGUI.txt" target = "_blank">Destroy GUI</a>
-			<br>
-			<a href="https://crishoux.github.io/InfiniteYieldFE.txt" target = "_blank">Infinite Yield FE</a>
-			<br>
-			<a href="https://crishoux.github.io/FlyWedge.txt" target = "_blank">Fly Wedge</a>
-			<br>
-			<a href="https://crishoux.github.io/YeetAPlayer.txt" target = "_blank">Yeet A Player</a>
-			<br>
-			<a href="https://crishoux.github.io/LazarusGUI.txt" target = "_blank">Lazarus GUI</a>
-		</div>
-		<div>
-			<p id = "Message">N/A</p>
-		</div>
-		<script type = "text/javascript">
-
-			let phraseList = [
-				"no scripts here",
-				"hello there",
-				"roblox",
-				"scripts",
-				"roblox scripts",
-				"welcome",
-				"crishoux's favorite scripts",
-				"if you're seeing this, you're very special",
-				"very cool indeed",
-				"nothing to see here",
-				"click the links to see the scripts!",
-				"be a cool robloxian!",
-				"nice job",
-				"no way, lol!",
-				"that's a lot of damage",
-				"what a troll!",
-				"you enjoying your stay?",
-				"that's no fun!",
-				"only 1% of people can see this message",
-				"print('elite scripter')",
-				"funny!",
-				"nice joke!",
-				"lolol!",
-				"you can't fool me with that one!",
-				"why did the chicken cross the road?",
-				"cool!",
-				"index.html",
-				"roblox.lua",
-				"just do it",
-				"i'm lovin' it",
-				"what are you doing?",
-				"hello?",
-				"don't do it!",
-				"!",
-				"enjoy the scripts",
-				"why did you do that?",
-				"are you refreshing?",
-				"but can you do this?",
-				"wait a minute... who are you?"
-		];
-
-			var element = document.getElementById("Message");
-			element.innerHTML = phraseList[Math.floor(Math.random() * phraseList.length)];
-
-		</script>
-	</body>
-</html>
+Having issues / questions with your purchase add blue on discord or join the discord, Blue.#9889 *Dont dm asking to buy lol use the sellix link and buy then join the discord and make a ticket* *Dms are open to questions / so is server chats*
